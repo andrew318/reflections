@@ -16,3 +16,9 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 By selecting which files you want to commit, you can select only the files containing a particular change
 for a commit, and leave other files containing a different logical change for another commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches would be helpful in a situation where you want to add or delete a particular feature
+but still keep the original features intact. Branches allow you to create multiple versions
+of your project that you can still easily access and modify.
