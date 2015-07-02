@@ -11,3 +11,8 @@ The working directory is the directory where all of your files are.
 And the repository is your collection of files in the working directory plus the hidden .git file.
 The value that the staging area offers is that it allows one to select which files to package
 into a commit without selecting every file in the directory.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+By selecting which files you want to commit, you can select only the files containing a particular change
+for a commit, and leave other files containing a different logical change for another commit.
