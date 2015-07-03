@@ -26,3 +26,9 @@ of your project that you can still easily access and modify.
 How do the diagrams help you visualize the branch structure?
 
 They allow one to see the commits for each branch that are shown when you run "git log" on a particular branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging two branches together is combining the commit histories and all of the combined code changes
+into one single branch. It is represented in the diagram as a branch structure because
+that is the best way to represent it.
