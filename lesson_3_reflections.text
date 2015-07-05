@@ -29,3 +29,10 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 Probably by sending documents back and forth between people and talking about the changes that need to be made.
 Using Git and GitHub is probably easier once you know how to use it.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When you want to work on a supplemental feature but don't want to mess with your original working code. You can then choose
+to merge your supplemental branch into the main branch. Working directly in master is much simpler. Adding a branch
+onto master makes working with your repository more complicated but it can also allow you more freedom to experiment
+without breaking anything important.
