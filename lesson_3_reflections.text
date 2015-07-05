@@ -24,3 +24,8 @@ when you want to logically separate certain changes in your code from the rest o
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It allows one to easily merge the two versions together without needing an internet connection.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Probably by sending documents back and forth between people and talking about the changes that need to be made.
+Using Git and GitHub is probably easier once you know how to use it.
